@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Курс знакомство с языками программирования", "Курс знакомство с языками программирования", "{87254E7D-B64D-4DD2-8775-31AC184E41EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson1", "Lesson1", "{69662AED-9674-4380-9BB6-7B8540B77A09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1", "Курс знакомство с языками программирования\Lesson1\Task1\Task1.csproj", "{07234571-5F8D-4697-9361-BBF0F17A0E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07234571-5F8D-4697-9361-BBF0F17A0E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07234571-5F8D-4697-9361-BBF0F17A0E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07234571-5F8D-4697-9361-BBF0F17A0E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07234571-5F8D-4697-9361-BBF0F17A0E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69662AED-9674-4380-9BB6-7B8540B77A09} = {87254E7D-B64D-4DD2-8775-31AC184E41EB}
+		{07234571-5F8D-4697-9361-BBF0F17A0E4F} = {69662AED-9674-4380-9BB6-7B8540B77A09}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8304027B-8CC9-4237-9CAC-BA0F85FDB78C}
+	EndGlobalSection
+EndGlobal
