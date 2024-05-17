@@ -19,4 +19,6 @@ Console.WriteLine(" "+product1+" "+product2+" "+product3);
 
 double quotient= i1 / d1;
 Console.WriteLine(quotient);
+double homeworkresult = i1*i2/(l1+d1);
+Console.WriteLine(homeworkresult); 
 
