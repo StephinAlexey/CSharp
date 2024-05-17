@@ -17,3 +17,6 @@ long product2 = l1 * i2;
 double product3 = d1 * i2;
 Console.WriteLine(" "+product1+" "+product2+" "+product3);
 
+double quotient= i1 / d1;
+Console.WriteLine(quotient);
+
