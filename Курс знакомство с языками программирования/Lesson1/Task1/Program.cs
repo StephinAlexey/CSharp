@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Runtime.CompilerServices;
 
-bool flag=true;
+/*bool flag=true;
 Console.Clear();
 while(flag)
 {
@@ -18,6 +18,7 @@ while(flag)
     Console.WriteLine("Your input is 2");
     break;
     case "x":
+    Console.Clear();
     flag=false;
     break;
     default:
@@ -27,3 +28,18 @@ while(flag)
 
   }
 }
+*/
+int a=100;
+long b=2000000000000;
+float c = 1.5f;
+double d = 122.33442;
+char e = 'D';
+string f = "kjjjsj";
+bool g = false;
+Console.WriteLine(a);
+Console.WriteLine(b);
+Console.WriteLine(c);
+Console.WriteLine(d);
+Console.WriteLine(e);
+Console.WriteLine(f);
+Console.WriteLine(g);
