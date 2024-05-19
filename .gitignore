@@ -80,3 +80,5 @@ TestResults/
 # Скрытые папки
 .idea/
 .vscode/
+
+.fake
