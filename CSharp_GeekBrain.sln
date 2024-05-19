@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson1", "Lesson1", "{6966
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1", "Курс знакомство с языками программирования\Lesson1\Task1\Task1.csproj", "{07234571-5F8D-4697-9361-BBF0F17A0E4F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson5", "Lesson5", "{31125F20-A620-470B-B0F5-EE1AE5671F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Курс знакомство с языками программирования\Lesson5\Task1\Task1.csproj", "{004AB1EE-DC48-4D62-8B0F-39541D39E06D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,10 @@ Global
 		{07234571-5F8D-4697-9361-BBF0F17A0E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07234571-5F8D-4697-9361-BBF0F17A0E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07234571-5F8D-4697-9361-BBF0F17A0E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004AB1EE-DC48-4D62-8B0F-39541D39E06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004AB1EE-DC48-4D62-8B0F-39541D39E06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004AB1EE-DC48-4D62-8B0F-39541D39E06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004AB1EE-DC48-4D62-8B0F-39541D39E06D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +34,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{69662AED-9674-4380-9BB6-7B8540B77A09} = {87254E7D-B64D-4DD2-8775-31AC184E41EB}
 		{07234571-5F8D-4697-9361-BBF0F17A0E4F} = {69662AED-9674-4380-9BB6-7B8540B77A09}
+		{31125F20-A620-470B-B0F5-EE1AE5671F6E} = {87254E7D-B64D-4DD2-8775-31AC184E41EB}
+		{004AB1EE-DC48-4D62-8B0F-39541D39E06D} = {31125F20-A620-470B-B0F5-EE1AE5671F6E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8304027B-8CC9-4237-9CAC-BA0F85FDB78C}
