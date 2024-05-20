@@ -1,0 +1,26 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>My first html with javascript</title>
+    <link href="styles/cssstyles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <p>This is general html document</p>
+    <script lang="javascript">
+        alert("Hello, world!");
+        let n = 0;
+        n = 5 / n;
+        alert(n);//Выдаст alert infinity т.к было деление на 0/
+        alert("Не число" / n);//Выдаст alert NaN, т.к. это не число
+        let k;
+        alert(k);//Выдаст Undefined, т.к. значение не было задано
+        n = 5;
+        alert("Добавляем число к тексту " + n);
+        alert(`Number ${n}`);
+    </script>
+    <p>Return to general html page</p>
+</body>
+
+</html>
