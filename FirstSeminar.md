@@ -4,11 +4,11 @@
 * Добавить с изменениямиж
 * Закомитить
 
-# git init
+## git init
 Инициализация гита
-# git add file_name
+## git add file_name
 Добавка файла в репозиторий
-# git commit -m "comment"
+## git commit -m "comment"
 Добавка коммита с комментарием
-# git status
+## git status
 Статус состояния текущего репозитория
